@@ -1,0 +1,11 @@
+{
+    "short_name": "InfoVar",
+    "name": "InfoVar",
+    
+    "icons":{
+        "src": "./icons/logo.svg",
+        "type": "/image/svg+",
+        "sizes": "32x32"
+    }
+    
+}

@@ -1,0 +1,14 @@
+{
+  "name": "restaurant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "parcel build index.html && npm run critical",
+    "critical": "critical --base dist index.html --inline > dist/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
